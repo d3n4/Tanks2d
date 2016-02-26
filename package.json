@@ -1,11 +1,23 @@
 {
   "name": "tanks",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "Mechislav Lipskiy <id110099122@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3n4/Tanks2d.git"
+  },
+  "bugs": {
+    "url": "https://github.com/d3n4/Tanks2d/issues"
+  },
+  "homepage": "https://github.com/d3n4/Tanks2d#readme",
+  "description": "",
+  "dependencies": {
+    "node-uuid": "^1.4.7"
+  }
 }

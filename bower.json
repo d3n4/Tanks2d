@@ -1,0 +1,24 @@
+{
+  "name": "tanks",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Mechislav Lipskiy <id110099122@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/d3n4/Tanks2d",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "socket.io-client": "^1.4.5",
+    "crafty": "^0.7.0",
+    "jquery": "^2.2.1"
+  }
+}
